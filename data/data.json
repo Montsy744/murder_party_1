@@ -67,7 +67,13 @@
   "F11": "",
   "G1": "",
   "G2": "",
-  "G3": "",
+  "G3": {
+  "addresses": {
+      "12 rue du Général Leclerc": "Lampe secrète",
+      "5 avenue des Fleurs": "Coffre au trésor",
+      "3 impasse du Chat": "Clé rouillée"
+    }
+  },  
   "G4": "",
   "G5": "",
   "G6": "",
@@ -90,7 +96,7 @@
   "I1": "",
   "I2": "",
   "I3": "",
-  "I4": "Vous recevez l'enveloppe de la maison d'alix",
+  "I4": "Vous recevez l'enveloppe numéro 1",
   "I5": "",
   "I6": "",
   "I7": "",

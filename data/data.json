@@ -18,7 +18,11 @@
   "B6": "",
   "B7": "",
   "B8": "",
-  "B9": "",
+  "B9":  {
+  "addresses": {
+      "39 rue de Dunkerque": "Bienvenu au journal La Voix du Nord vous y rencontrez Julien"
+    }
+  },
   "B10": "",
   "B11": "",
   "C1": "",
@@ -69,9 +73,8 @@
   "G2": "",
   "G3": {
   "addresses": {
-      "12 rue du Général Leclerc": "Lampe secrète",
-      "5 avenue des Fleurs": "Coffre au trésor",
-      "3 impasse du Chat": "Clé rouillée"
+      "12 rue du Général Leclerc": "Vous découvrez la devanture d'un petit journal indépendant qui a l'air un petit peu particulier. Vous recevez l'enveloppe numéro 2",
+      "6 Bis route d'Acquin": "Vous recevez l'enveloppe numéro 3"
     }
   },  
   "G4": "",

@@ -77,3 +77,7 @@ button {
   border-color: rgb(188, 102, 102);
   color: rgb(188, 102, 102);
 }
+.card {
+  position: relative;
+  z-index: 1;
+}

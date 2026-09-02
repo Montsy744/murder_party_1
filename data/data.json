@@ -11,7 +11,15 @@
   "A10": "",
   "A11": "",
   "B1": "",
-  "B2": "",
+  "B2": {
+    "addresses": {
+      "14 Rue Principale": {
+        "password": "9999",
+        "value": "Coffre au trésor"
+      }
+    }
+  }
+,
   "B3": "",
   "B4": "",
   "B5": "",

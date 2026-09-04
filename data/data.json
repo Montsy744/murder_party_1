@@ -15,7 +15,7 @@
     "addresses": {
       "14 Rue Principale": {
         "password": "9999",
-        "value": "Coffre au trésor"
+        "value": "Vous entrez dans un vieux batiment qui au premier abord a l'aire abandonée, grâce au mot de passe vous réussissez a entrez et vous y découvrer un laboratoire abandonée. Vous recevez l'enveloppe numéro 5"
       }
     }
   }
@@ -73,7 +73,14 @@
   "F5": "",
   "F6": "",
   "F7": "",
-  "F8": "",
+  "F8": {
+    "addresses": {
+      "9 rue d’ensdorf": {
+        "password": "1404",
+        "value": "Vous arrivez devant une maison lambda mais le digicode sur la porte vous confirme que vous êtes au bonne endroit. Vous parvenais a entrer et recevez l'enveloppe numéro 6"
+      }
+    }
+  },
   "F9": "",
   "F10": "",
   "F11": "",
@@ -93,7 +100,14 @@
   "G9": "",
   "G10": "",
   "G11": "",
-  "H1": "",
+  "H1": {
+    "addresses": {
+      "112 Rue Principale": {
+        "password": "1680",
+        "value": "Une fois arrivez vous apercevais une vielle grande d'où émane de la lumière malgrès cette heure tardive. Vous vous raprochez et entandais une léger bourdonement. En entrans le mot de passe la porte souvre et vous entrez. Vous recevez l'enveloppe numéro 7"
+      }
+    }
+  },
   "H2": "",
   "H3": "",
   "H4": "",

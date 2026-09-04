@@ -26,6 +26,8 @@ body {
   padding: 2.5rem;
   width: 360px;
   text-align: center;
+  position: relative;
+  z-index: 1;
 }
 h1 {
   font-size: 1rem;
@@ -77,7 +79,16 @@ button {
   border-color: rgb(188, 102, 102);
   color: rgb(188, 102, 102);
 }
-.card {
-  position: relative;
-  z-index: 1;
-}
+
+#night-drive-bg {
+        position: fixed;
+        inset: 0;
+        width: 100vw;
+        height: 100vh;
+        display: block;
+        /* Coeur du rendu "pixel art" : on interdit le lissage à l'agrandissement */
+        image-rendering: pixelated;
+        image-rendering: -moz-crisp-edges;
+        image-rendering: crisp-edges;
+        z-index: -1;
+      }
